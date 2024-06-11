@@ -1,7 +1,7 @@
 <h2 align="center">Biscoito da sorte</h2>
 
 <h1 align="center">
-    <img width="600px" alt="BiscoitoDaSorte" title="#BiscoitoDaSorte" src="https://github.com/freitasbr01/rocketnotes-front/blob/main/src/assets/rocketnotes2.png" />
+    <img width="600px" alt="BiscoitoDaSorte" title="#BiscoitoDaSorte" src="https://github.com/freitasbr01/biscoito-da-sorte/blob/main/assets/biscoito.png" />
 </h1>
 
 <p align="center">
