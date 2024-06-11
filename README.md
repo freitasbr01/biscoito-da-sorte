@@ -1,4 +1,4 @@
-<h2 align="center">Biscoito da sorte</h2>
+<h2 align="center">Biscoito da Sorte</h2>
 
 <h1 align="center">
     <img width="600px" alt="BiscoitoDaSorte" title="#BiscoitoDaSorte" src="https://github.com/freitasbr01/biscoito-da-sorte/blob/main/assets/biscoito.png" />
@@ -13,7 +13,7 @@
 
 Neste projeto, foi desenvolvido um aplicativo web interativo chamado “Biscoito da Sorte” que permite aos usuários abrir um biscoito da sorte virtual. Ao mover o mouse sobre o biscoito, ele treme, e ao clicar, revela uma mensagem da sorte. O aplicativo permite a abertura de múltiplos biscoitos, cada um com uma nova mensagem.
 
-Link de acesso - <a href="https://rocketnotes02.netlify.app/">RocketNotes</a>
+Link de acesso - <a href="https://biscoitodasorte01.netlify.app/">Biscoito da Sorte</a>
 
 Projeto desenvolvido durante o Curso Explorer da **Rocketseat**.
 
